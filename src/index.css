@@ -1,0 +1,10 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Worksans', sans-serif;
+}
+body {
+    height: 100vh;
+    background-color: hsl(275, 63%, 93%);
+    position: relative;
+    
+}
